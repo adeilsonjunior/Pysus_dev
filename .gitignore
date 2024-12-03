@@ -1,3 +1,7 @@
 
 # Ignorar toda a pasta do ambiente virtual
 pysus_env/
+.git/
+.ipynb_checkpoints/
+dados_sia/
+logs/
